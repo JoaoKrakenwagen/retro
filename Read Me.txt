@@ -1,0 +1,4 @@
+Os códigos criados foram exercicio.html e exercicio.css.
+
+
+Encontram-se nas pastas de seus respectivos formatos.
